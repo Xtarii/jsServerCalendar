@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node server.js"
   },
-  "author": "Lord Alvin Hansen",
+  "author": "Xtarii",
   "license": "ISC",
   "dependencies": {
     "@google-cloud/local-auth": "^2.1.0",
